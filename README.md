@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Mobile, using Dart/Flutter
 - 🌱 I’m currently learning Clean Architecture on Flutter projects
--->
 
  <div>
   <a href="https://github.com/pbayma">
