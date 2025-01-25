@@ -1,7 +1,7 @@
 ### Hi there, I'm Pedro Bayma 👋
 
-- 🔭 I’m currently working on Mobile, using Dart/Flutter
-- 🌱 I’m currently learning Clean Architecture on Flutter projects
+- 🔭 I’m used to work on Mobile, using Dart/Flutter
+- 🌱 I’m currently learning IOS and implementing apps with Swift and MVVM
 
  <div>
   <a href="https://github.com/pbayma">
